@@ -25,3 +25,9 @@
 <p align="left">With over 6 years of experience in ReactJS, complemented by a background in User Experience and Design from my Degree in Multimedia, I bring a comprehensive set of skills to the table.<br><br>In recent years, I have been part of teams that have prioritized working with agile methodologies and Test-Driven Development (TDD).<br><br>Over the last year, I have specialized in frameworks such as Vite and NextJS.<br><br>When it comes to testing, I have primarily worked with Vitest, Jest, and Cypress. The main types of tests I have conducted or typically perform on my applications include end-to-end (E2E) tests, unit tests, integration tests, functional tests, and golden tests.<br><br>Regarding the user interface aspect, I have experience with Bootstrap, Material UI, and lately, I always use TailwindCSS whenever possible.</p>
 
 ###
+
+- 📫 How to reach me **agustipcom@gmail.com**
+
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1Rceq--dCXH4cLhcwPDyU5rDseAE6I34L/view?usp=drive_link)
+
+  ###
